@@ -6,5 +6,9 @@ class Launch
 	    System.out.println(args[0]);
 	    System.out.println(args[1]);
 	}
+	void method()
+	{
+	System.out.println("hello baby");
+	}
 	
 }
